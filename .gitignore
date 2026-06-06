@@ -1,0 +1,4 @@
+".env" 
+"node_modules" 
+".env" 
+"dist"  echo ".env.txt" 
